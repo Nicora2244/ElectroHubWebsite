@@ -64,7 +64,7 @@ a {
 }
 /*Banner*/
 .yoga-template .banner {
-	background-image: url(../img/imagen11.jpeg);
+	background-image: url(../img/imagen13.jpg);
 	background-repeat: no-repeat; 
 	background-size: cover;
 	background-position: center center;
@@ -169,7 +169,7 @@ a {
     letter-spacing: 0.6px;
     font-weight: 700;
     padding: 21px 32px 19px;
-    background-color: #7d2181;
+    background-color: #191970;
     color: #fff;
     border-radius: 3px;
     text-transform: uppercase;
@@ -258,7 +258,7 @@ a {
     font-family: 'Roboto Slab', serif;
     font-size: 28px;
     line-height: 40px;
-    color: #7b6cd5;
+    color: #4682B4;
     font-weight: 600;
 	text-align: left;
 }
@@ -280,7 +280,7 @@ a {
   width: 1.3em;
   font-size: 12px;
   line-height: 40px;
-  color: #7b6cd5; 
+  color: #00008B; 
 }
 .yoga-template .best-class-club .best-class-club-img {
 	background-image: url(../img/imagen12.jpg);
